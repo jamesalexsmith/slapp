@@ -36,7 +36,7 @@
     "deap": "^1.0.0",
     "js-queue": "^1.0.0",
     "request": "^2.73.0",
-    "slack": "master"
+    "slack": "https://github.com/smallwins/slack.git"
   },
   "devDependencies": {
     "ava": "^0.15.2",
